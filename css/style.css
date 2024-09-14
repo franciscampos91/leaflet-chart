@@ -1,0 +1,9 @@
+
+body {
+    background-color: gainsboro;
+}
+
+#map { 
+    height: 380px;
+    width: 600px; 
+}

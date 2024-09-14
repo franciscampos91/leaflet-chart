@@ -1,0 +1,30 @@
+{
+    "enderecos": [
+      {
+        "endereco": "Rua José Braga Sobrinho, 123",
+        "lat": -23.810292,
+        "lon": -47.727855
+      },
+      {
+        "endereco": "Avenida Miguel Petrere, 456",
+        "lat": -23.814370,
+        "lon": -47.727367
+      },
+      {
+        "endereco": "Rua João Batista Ribeiro, 789",
+        "lat": -23.813071,
+        "lon": -47.729698
+      },
+      {
+        "endereco": "Rua Dom Lúcio Antunes de Souza, 101",
+        "lat": -23.812021,
+        "lon": -47.728419
+      },
+      {
+        "endereco": "Praça Coronel Fernando Prestes, 202",
+        "lat": -23.816568,
+        "lon": -47.727264
+      }
+    ]
+  }
+  
